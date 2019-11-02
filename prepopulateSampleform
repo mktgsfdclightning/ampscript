@@ -1,0 +1,8 @@
+<label>Name:</label> <input name="name" type="text" value="%%Name%%" />
+<label>Email:</label> <input name="email" type="text" value="%%email%%" />
+ <label>Phone:</label> <input name="phone" type="number" value="%%phone%%" />
+<label>Address:</label> <input name="address" type="text" value="%%Address%%" />
+<label>Zip:</label> <input name="zip" type="number" value="%%ZipCode%%" />
+<input name="submit" type="submit" value="Submit" />
+
+ 

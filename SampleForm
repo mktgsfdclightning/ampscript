@@ -1,0 +1,7 @@
+
+<label>Name:</label> <input name="name" nbsp="" type="text" />
+<label>Email:</label> <input name="email" nbsp="" type="text" />
+<label>Phone:</label> <input name="phone" nbsp="" type="number" />
+<label>Address:</label> <input name="address" nbsp="" type="text" />
+<label>Zip:</label> <input name="zip" type="number" />
+<input name="submit" type="submit" value="Submit" />
